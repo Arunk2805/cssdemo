@@ -1,0 +1,16 @@
+ h2 {
+     font-size: 30px;
+     text-align: center;
+     background-color: blue;
+     color: antiquewhite;
+
+ }
+
+ div {
+     background-color: rgba(145, 250, 252, 0.16);
+ }
+ p{
+    background-color: rgb(252, 252, 191);
+    color:rgb(244, 34, 34) ;
+    
+ }
